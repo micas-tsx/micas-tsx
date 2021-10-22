@@ -1,7 +1,7 @@
 Prazer, sou Micael! 😉
 
-- 🔭 trabalho agora com front-end
-- 🌱 estudando: Javascript e Typescript
+- 🔭 trabalho neste momento com nada
+- 🌱 estudando: HTML5,CC3, Javascript e Typescript
 
 <div align="aling">
   <a href="https://github.com/micael-web">
