@@ -1,7 +1,7 @@
 Prazer, sou Micael! 😉
 
 - 🔭 trabalho neste momento com nada
-- 🌱 estudando: HTML5,CC3, Javascript e Typescript
+- 🌱 estudando: HTML5, CC3, Javascript e Typescript
 
 <div align="aling">
   <a href="https://github.com/micael-web">
