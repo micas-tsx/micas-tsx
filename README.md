@@ -1,6 +1,5 @@
 Prazer, sou Micael! 😉
 
-- 🔭 trabalho neste momento com nada
 - 🌱 estudando: HTML5, CSS3, Javascript e Typescript
 
 <div align="aling">
