@@ -26,6 +26,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="aling">
-<img width="4300em" src="https://github-readme-stats.vercel.app/api?username=micas-tsx&show_icons=true&theme=vision-friendly-dark" alt="micas stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=micas-tsx&show_icons=true&theme=vision-friendly-dark" alt="micas stats"/>
 <img width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micas-tsx&layout=compact&theme=vision-friendly-dark" alt="micas most languages"/>
 </p>
