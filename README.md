@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/micas-tsx/c668190c9aa310d76231dfe2847c19de/raw/3ff0fc2c1d1cfe049d264d41754e4fe0add04003/micas.svg"/>
+<img align="right" height="470em" src="https://raw.githubusercontent.com/gist/micas-tsx/c668190c9aa310d76231dfe2847c19de/raw/3ff0fc2c1d1cfe049d264d41754e4fe0add04003/micas.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Micael Abud</h1>
 
 - 🔥 Front-End Fevelopment Student
@@ -26,6 +26,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="aling">
-<img width="512em" src="https://github-readme-stats.vercel.app/api?username=micas-tsx&show_icons=true&theme=vision-friendly-dark" alt="micas stats"/>
+<img width="460em" src="https://github-readme-stats.vercel.app/api?username=micas-tsx&show_icons=true&theme=vision-friendly-dark" alt="micas stats"/>
 <img width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micas-tsx&layout=compact&theme=vision-friendly-dark" alt="micas most languages"/>
 </p>
