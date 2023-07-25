@@ -1,22 +1,31 @@
-Prazer, sou Micael! 😉
+<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/micas-tsx/c668190c9aa310d76231dfe2847c19de/raw/3ff0fc2c1d1cfe049d264d41754e4fe0add04003/micas.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Micael Abud</h1>
 
-- 🌱 estudando: HTML5, CSS3, Javascript e Typescript
+- 🔥 Front-End Fevelopment Student
 
-<div align="aling">
-  <a href="https://github.com/micael-web">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-web&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-web&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Micas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Micas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Micas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Micas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">          
-</div>
-  
-  ##
- 
-<div>
-  <a href="https://www.instagram.com/micas.tsx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/micael-abud-6a9a74223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+- 🔭 I’m currently working at [ProjetoOS](https://github.com/ProjetoOS)
+
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React**
+
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="aling">
+<img width="512em" src="https://github-readme-stats.vercel.app/api?username=micas-tsx&show_icons=true&theme=vision-friendly-dark" alt="micas stats"/>
+<img width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micas-tsx&layout=compact&theme=vision-friendly-dark" alt="micas most languages"/>
+</p>
