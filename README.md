@@ -3,8 +3,6 @@
 
 - 🔥 Front-End Fevelopment Student
 
-- 🔭 I’m currently working at [ProjetoOS](https://github.com/ProjetoOS)
-
 - 🌱 I’m currently learning **JavaScript, React**
 
 <br><br>
