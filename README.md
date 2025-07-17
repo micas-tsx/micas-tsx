@@ -4,7 +4,7 @@
 
 <div align="center">
   <h2>
-  <a target="_blank" href="https://micastsx.netlify.app">Veja meu portifólio</a>
+  <a href="https://micastsx.netlify.app">Veja meu portifólio</a>
   </h2>
 </div>
 <div align="center">  
